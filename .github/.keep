@@ -11,3 +11,4 @@ elif temp_type == 'F':
     print(f"{fahrenheit}°F is equal to {celsius:.1f}°C")
 else:
     print("Invalid input! Please enter 'C' or 'F'.")
+# test
